@@ -20,7 +20,6 @@ The dataset used in this project was sourced from Kaggle:
 - Training and evaluation of classification models:
   - Logistic Regression
   - Random Forest
-  - [Add others if applicable]
 - Accuracy, precision, recall, and F1-score analysis
 - Optional: ROC-AUC curve, confusion matrix, etc.
 
@@ -55,7 +54,6 @@ The dataset used in this project was sourced from Kaggle:
 - scikit-learn
 - matplotlib
 - seaborn
-- [Any other libraries you used]
 
 You can create a `requirements.txt` using:
 ```bash
