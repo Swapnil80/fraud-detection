@@ -7,7 +7,7 @@ This project aims to build a machine learning model that detects fraudulent bank
 
 The dataset used in this project was sourced from Kaggle:  
 **[Bank Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets)**  
-(*Please insert the exact URL here*)
+(https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection)
 
 > ⚠️ Due to licensing restrictions, the dataset is not included in this repository.  
 > To run the notebook, download the dataset manually from Kaggle and place it in the root directory as `bank_transactions_data_2.csv`.
